@@ -4,8 +4,8 @@ table {
 }
 tr{
     color: yellow;
-    font-family: 'Comic Sans MS', sans-serif;
-    font-size: 256px
+    font-family: Wingdings, 'Comic Sans MS', sans-serif;
+    font-size: 5px
 }
 body{
     background-color: yellowgreen;
