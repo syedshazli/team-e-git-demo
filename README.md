@@ -16,7 +16,7 @@
                 6.) Someone on the team will review the code, fix any merge conflicts (via Webstorm or Github Merge Conflict Editor), and then either approve your changes or discard them
                 7.) Done! See the steps below on pulling someone's accepted PR into your local branch
                 
-                Steps to pull in changes from main branch into your local branch....AKA someone merged their PR
+                Steps to pull in changes from main branch into your local branch....AKA someone merged their PR with main and you want the changes to show up on your branch 
                 1) git fetch origin // this makes our git aware of all other branches 
                 2) git checkout main
                 3) git pull // pulls merged changes from updated main into your main
