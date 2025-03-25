@@ -2,3 +2,11 @@ table {
     width: 50%;
     text-align: center;
 }
+tr{
+    color: yellow;
+    font-family: Wingdings, 'Comic Sans MS', sans-serif;
+    font-size: 5px
+}
+body{
+    background-color: yellowgreen;
+}
