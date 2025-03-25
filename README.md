@@ -8,7 +8,7 @@
                  Push it back to the git repository, resolving any merge conflicts 
 
                 Steps to create a pull request (So that your code can be merged with the main branch or any branch)
-                1.) Commit your changes to your local branch
+                1.) Push your changes to your local branch
                 2.) Go to the repository on Github, click branches, and click the three dots next to your branch
                 3.) Select "Create Pull Request"
                 4.) Add a description to your pull request
