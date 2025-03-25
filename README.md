@@ -6,3 +6,11 @@
                  (5) Repeat steps 2 and 3 
                  (6) Go to GitHub and see your changes! 
                  Push it back to the git repository, resolving any merge conflicts 
+
+
+                Steps to pull in changes from main branch into your local branch....AKA someone merged their PR
+                1) git fetch origin // this makes our git aware of all other branches 
+                2) git checkout main
+                3) git pull // pulls merged changes from updated main into your main
+                4) git checkout BRANCHNAME
+                5) git merge main // get changes from updated main branch into your branch
